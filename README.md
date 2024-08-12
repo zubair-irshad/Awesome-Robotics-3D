@@ -18,7 +18,7 @@ Other relevant survey papers:
 
 * "When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models", *arXiv, May 2024*. [[Paper](https://arxiv.org/pdf/2405.10255)]
 
-* "A Comprehensive Study of 3-D Vision-Based Robot Manipulation", *arXiv, May 2024*. [[Paper](https://arxiv.org/pdf/2405.10255)]
+* "A Comprehensive Study of 3-D Vision-Based Robot Manipulation", *TCYB 2023*. [[Paper](https://ieeexplore.ieee.org/document/9541299)]
 
 ---
 ## 🏠 Overview
