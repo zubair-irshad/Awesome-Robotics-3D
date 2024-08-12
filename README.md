@@ -164,8 +164,6 @@ Other relevant survey papers:
 
 * **JCR**: "Unifying Scene Representation and Hand-Eye Calibration with 3D Foundation Models", *arXiv, Apr 2024*. [[Paper](https://arxiv.org/abpdfs/2404.11683v1)] [[Code](https://github.com/tomtang502/arm_3d_reconstruction)]
 
-Unifying Scene Representation and Hand-Eye Calibration with 3D Foundation Models
-
 * **D3Fields**: "Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Robotic Manipulation", *arXiv, Sep 2023*. [[Paper](https://arxiv.org/pdf/2309.16118)] [[Webpage](https://robopil.github.io/d3fields/)] [[Code](https://github.com/WangYixuan12/d3fields)]
 
 * **SayPlan**: "Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning", *CORL 2023*. [[Paper](https://openreview.net/pdf?id=wMpOMO0Ss7a)] [[Webpage](https://sayplan.github.io/)]
