@@ -3,7 +3,7 @@ Suggesstions/ paper updates/ any contributions to this list are most welcome! Pl
 
 Modify the README.md and follow the format 
 ``` 
-* ** Short Title**: "TITLE", CONFERENCE, YEAR. [[Paper/PDF](link)] [[Code](link)] [[Website](link)]
+* **Short Title**: "TITLE", CONFERENCE, YEAR. [[Paper/PDF](link)] [[Code](link)] [[Website](link)]
 ``` 
 For example:
 
