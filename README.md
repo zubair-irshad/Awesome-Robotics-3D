@@ -142,6 +142,8 @@ Other relevant survey papers:
 
 * **OpenKD**: "Open-Vocabulary Affordance Detection using Knowledge Distillation and Text-Point Correlation", *ICRA 2024*. [[Paper](https://arxiv.org/pdf/2309.10932)] [[Code](https://github.com/Fsoft-AIC/Open-Vocabulary-Affordance-Detection-using-Knowledge-Distillation-and-Text-Point-Correlation)]
 
+* **PARIS3D**: "Reasoning Based 3D Part Segmentation Using Large Multimodal Model", *ECCV 2024*. [[Paper](https://arxiv.org/abs/2404.03836)] [[Code](https://github.com/AmrinKareem/PARIS3D)]
+
 
 ---
 ## Representation
