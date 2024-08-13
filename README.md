@@ -132,7 +132,15 @@ Other relevant survey papers:
 
 * **VLMaps**: "Visual Language Maps for Robot Navigation", *ICRA 2023*. [[Paper](https://arxiv.org/pdf/2210.05714)] [[Website](https://vlmaps.github.io/)] [[Code](https://github.com/vlmaps/vlmaps.gita)] 
 
-* **MoMa-LLM**: "Language-Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation", *RA-L 2024*. [[Paper](https://arxiv.org/pdf/2403.08605)] [[Website](http://moma-llm.cs.uni-freiburg.de/)] [[Code](https://github.com/robot-learning-freiburg/MoMa-LLM)] 
+* **MoMa-LLM**: "Language-Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation", *RA-L 2024*. [[Paper](https://arxiv.org/pdf/2403.08605)] [[Website](http://moma-llm.cs.uni-freiburg.de/)] [[Code](https://github.com/robot-learning-freiburg/MoMa-LLM)]
+
+* **LGrasp6D**: "Language-Driven 6-DoF Grasp Detection Using Negative Prompt Guidance", *ECCV 2024*. [[Paper](https://arxiv.org/pdf/2407.13842)] [[Website](https://airvlab.github.io/grasp-anything/)]
+
+* **OpenAD**: "Open-Vocabulary Affordance Detection in 3D Point Clouds", *IROS 2023*. [[Paper](https://arxiv.org/pdf/2303.02401)] [[Website](https://openad2023.github.io/)] [[Code](https://github.com/Fsoft-AIC/Open-Vocabulary-Affordance-Detection-in-3D-Point-Clouds)]
+
+* **3DAPNet**: "Language-Conditioned Affordance-Pose Detection in 3D Point Clouds", *ICRA 2024*. [[Paper](https://arxiv.org/pdf/2309.10911)] [[Website](https://3dapnet.github.io/)] [[Code](https://github.com/Fsoft-AIC/Language-Conditioned-Affordance-Pose-Detection-in-3D-Point-Clouds)]
+
+* **OpenKD**: "Open-Vocabulary Affordance Detection using Knowledge Distillation and Text-Point Correlation", *ICRA 2024*. [[Paper](https://arxiv.org/pdf/2309.10932)] [[Code](https://github.com/Fsoft-AIC/Open-Vocabulary-Affordance-Detection-using-Knowledge-Distillation-and-Text-Point-Correlation)]
 
 
 ---
@@ -205,7 +213,9 @@ Other relevant survey papers:
 
 * **RoboTHOR**: "An Open Simulation-to-Real Embodied AI Platform", *CVPR 2020*. [[Paper](https://arxiv.org/pdf/2004.06799)] [[Website](https://ai2thor.allenai.org/robothor/)] [[Code](https://github.com/allenai/ai2thor)]
 
-* **ManiSkill2**: "A Unified Benchmark for Generalizable Manipulation Skills", *ICLR 2023*. [[Paper](https://arxiv.org/pdf/2302.04659)] [[Website](https://maniskill2.github.io/)] [[Code](https://github.com/haosulab/ManiSkill2)] 
+* **ManiSkill2**: "A Unified Benchmark for Generalizable Manipulation Skills", *ICLR 2023*. [[Paper](https://arxiv.org/pdf/2302.04659)] [[Website](https://maniskill2.github.io/)] [[Code](https://github.com/haosulab/ManiSkill2)]
+
+* **HabiCrowd**: "HabiCrowd: A High Performance Simulator for Crowd-Aware Visual Navigation", *IROS 2024*. [[Paper](https://arxiv.org/pdf/2306.11377)] [[Website](https://habicrowd.github.io/)] [[Code](https://github.com/Fsoft-AIC/HabiCrowd)]
 
 ----
 ## Citation
