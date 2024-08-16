@@ -47,6 +47,8 @@ Other relevant survey papers:
 
 * **Imagination Policy**: "Using Generative Point Cloud Models for Learning Manipulation Policies", *arXiv Jun 2024*. [[Paper](https://arxiv.org/pdf/2406.11740)] [[Webpage](https://haojhuang.github.io/imagine_page/)]
 
+* **PCWM**: "Point Cloud Models Improve Visual Robustness in Robotic Learners", *ICRA 2024*. [[Paper](https://arxiv.org/abs/2404.18926)] [[Webpage](https://pvskand.github.io/projects/PCWM)]
+
 * **RVT**: "Generalizable Visuomotor Policy Learning via Simple 3D Representations", *CORL 2023*. [[Paper](https://arxiv.org/pdf/2306.14896)] [[Webpage](https://robotic-view-transformer.github.io/)] [[Code](https://github.com/nvlabs/rvt)]
 
 * **Act3D**: "3D Feature Field Transformers for Multi-Task Robotic Manipulation", *CORL 2023*. [[Paper](https://arxiv.org/pdf/2306.17817)] [[Webpage](https://act3d.github.io/)] [[Code](https://github.com/zhouxian/chained-diffuser)]
