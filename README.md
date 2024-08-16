@@ -219,8 +219,6 @@ Other relevant survey papers:
 
 * **RoboTHOR**: "An Open Simulation-to-Real Embodied AI Platform", *CVPR 2020*. [[Paper](https://arxiv.org/pdf/2004.06799)] [[Website](https://ai2thor.allenai.org/robothor/)] [[Code](https://github.com/allenai/ai2thor)]
 
-* **ManiSkill2**: "A Unified Benchmark for Generalizable Manipulation Skills", *ICLR 2023*. [[Paper](https://arxiv.org/pdf/2302.04659)] [[Website](https://maniskill2.github.io/)] [[Code](https://github.com/haosulab/ManiSkill2)]
-
 * **HabiCrowd**: "HabiCrowd: A High Performance Simulator for Crowd-Aware Visual Navigation", *IROS 2024*. [[Paper](https://arxiv.org/pdf/2306.11377)] [[Website](https://habicrowd.github.io/)] [[Code](https://github.com/Fsoft-AIC/HabiCrowd)]
 
 ----
