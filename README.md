@@ -148,6 +148,8 @@ Other relevant survey papers:
 ---
 ## Representation
 
+* **RAM**: "RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation", *arXiv July 2024*. [[Paper](https://arxiv.org/pdf/2407.04689)] [[Webpage](https://yxkryptonite.github.io/RAM/)] [[Code](https://github.com/yxKryptonite/RAM_code)]
+
 * **GNFactor**: "Multi-Task Real Robot Learning with Generalizable Neural Feature Fields", *CORL 2023*. [[Paper](https://arxiv.org/pdf/2308.16891)] [[Webpage](https://yanjieze.com/GNFactor/)] [[Code](https://github.com/YanjieZe/GNFactor)]
 
 * **ManiGaussian**: "Dynamic Gaussian Splatting for Multi-task Robotic Manipulation", *ECCV 2024*. [[Paper](https://arxiv.org/pdf/2403.08321)] [[Webpage](https://guanxinglu.github.io/ManiGaussian/)] [[Code](https://github.com/GuanxingLu/ManiGaussian)]
