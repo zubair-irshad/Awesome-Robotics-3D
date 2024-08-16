@@ -197,6 +197,8 @@ Other relevant survey papers:
 
 * **RoboCasa**: "Large-Scale Simulation of Everyday Tasks for Generalist Robots", *RSS 2024*. [[Paper](https://arxiv.org/pdf/2406.02523)] [[Website](https://robocasa.ai/)] [[Code](https://github.com/robocasa/robocasa)] 
 
+* **ARNOLD**: "ARNOLD: A Benchmark for Language-Grounded Task Learning With Continuous States in Realistic 3D Scenes", *ICCV 2023*. [[Paper](https://arxiv.org/pdf/2304.04321)] [[Webpage](https://arnold-benchmark.github.io/)] [[Code](https://github.com/arnold-benchmark/arnold)]
+
 * **VIMA**: "General Robot Manipulation with Multimodal Prompts", *ICML 2023*. [[Paper](https://arxiv.org/pdf/2210.03094)] [[Website](https://vimalabs.github.io/)] [[Code](https://github.com/vimalabs/VIMA)] 
 
 * **ManiSkill2**: "A Unified Benchmark for Generalizable Manipulation Skills", *ICLR 2023*. [[Paper](https://arxiv.org/pdf/2302.04659)] [[Website](https://maniskill2.github.io/)] [[Code](https://github.com/haosulab/ManiSkill2)] 
