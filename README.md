@@ -104,7 +104,9 @@ Other relevant survey papers:
 
 * **RoboPoint**: "A Vision-Language Model for Spatial Affordance Prediction for Robotics", *arXiv, June 2024*. [[Paper](https://arxiv.org/pdf/2210.07241)] [[Website](https://robo-point.github.io/)]
 
-* **SpatialVLM**: "Endowing Vision-Language Models with Spatial Reasoning Capabilities", *CVPR 2024*. [[Paper](https://arxiv.org/abs/2401.12168)] [[Website](https://spatial-vlm.github.io/)] [[Code](https://spatial-vlm.github.io/#community-implementation)] 
+* **SpatialVLM**: "Endowing Vision-Language Models with Spatial Reasoning Capabilities", *CVPR 2024*. [[Paper](https://arxiv.org/abs/2401.12168)] [[Website](https://spatial-vlm.github.io/)] [[Code](https://spatial-vlm.github.io/#community-implementation)]
+
+* **SpatialRGPT**: "Grounded Spatial Reasoning in Vision Language Model", *arXiv, June 2024*. [[Paper](https://arxiv.org/abs/2406.01584)] [[Website](https://www.anjiecheng.me/SpatialRGPT)]
 
 * **Scene-LLM**: "Extending Language Model for 3D Visual Understanding and Reasoning", *arXiv, Mar 2024*. [[Paper](https://arxiv.org/pdf/2403.11401)] 
 
