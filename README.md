@@ -126,6 +126,8 @@ Other relevant survey papers:
 
 * **SpatialPIN**: "Enhancing Spatial Reasoning Capabilities of Vision-Language Models through Prompting and Interacting 3D Priors", *arXiv, Mar 2024*. [[Paper](https://arxiv.org/pdf/2403.13438)] [[Website](https://dannymcy.github.io/zeroshot_task_hallucination/)]
 
+* **SpatialBot**: "Precise Spatial Understanding with Vision Language Models", *arXiv, Jun 2024*. [[Paper](https://arxiv.org/pdf/2406.13642)] [[Code](https://github.com/BAAI-DCAI/SpatialBot)]
+
 * **COME-robot**: "Closed-Loop Open-Vocabulary Mobile Manipulation with GPT-4V", *arXiv, Apr 2024*. [[Paper](https://arxiv.org/pdf/2404.10220)] [[Website](https://come-robot.github.io/)]
 
 * **3D-LLM**: "Open-Vocabulary Robotic Manipulation through Mark-Based Visual Prompting", *Neurips 2023*. [[Paper](https://arxiv.org/pdf/2307.12981)] [[Website](https://vis-www.cs.umass.edu/3dllm/)] [[Code](https://github.com/UMass-Foundation-Model/3D-LLM)] 
