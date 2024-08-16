@@ -41,7 +41,7 @@ Other relevant survey papers:
 
 * **DNAct**: "Diffusion Guided Multi-Task 3D Policy Learning", *arXiv Mar 2024*. [[Paper](https://arxiv.org/pdf/2403.04115 )] [[Webpage](https://dnact.github.io/)]
 
-* **ManiCM**: "Diffusion Guided Multi-Task 3D Policy Learning", *arXiv Mar 2024*. [[Paper](https://arxiv.org/pdf/2406.01586)] [[Webpage](https://manicm-fast.github.io/)] [[Code](https://github.com/ManiCM-fast/ManiCM)]
+* **ManiCM**: "Real-time 3D Diffusion Policy via Consistency Model for Robotic Manipulation", *arXiv Jun 2024*. [[Paper](https://arxiv.org/pdf/2406.01586)] [[Webpage](https://manicm-fast.github.io/)] [[Code](https://github.com/ManiCM-fast/ManiCM)]
 
 * **HDP**: "Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation", *CVPR 2024*. [[Paper](https://arxiv.org/pdf/2403.03890)] [[Webpage](https://yusufma03.github.io/projects/hdp/)] [[Code](https://github.com/dyson-ai/hdp)]
 
