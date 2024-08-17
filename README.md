@@ -6,7 +6,7 @@
 
 ## ✨ About
 
-This repo contains a curative list of **3D Vision papers relating to Robotics domain in the era of large models i.e. LLMs/VLMs**, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) <br>
+This repo contains a curated list of **3D Vision papers relating to Robotics domain in the era of large models i.e. LLMs/VLMs**, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) <br>
 
 #### Please feel free to send me [pull requests](https://github.com/zubair-irshad/Awesome-Robotics-3D/blob/main/how-to-PR.md) or [email](mailto:muhammadzubairirshad@gmail.com) to add papers! 
 
