@@ -102,7 +102,9 @@ Other relevant survey papers:
 
 ## VLM and LLM
 
-* **3D-VLA**: 3D Vision-Language-Action Generative World Model", *ICML 2024*. [[Paper](https://arxiv.org/pdf/2403.09631)] [[Website](https://vis-www.cs.umass.edu/3dvla/)] [[Code](https://github.com/UMass-Foundation-Model/3D-VLA)] 
+* **ShapeLLM**: "ShapeLLM: Universal 3D Object Understanding for Embodied Interaction", *ECCV 2024*. [[Paper/PDF](https://arxiv.org/pdf/2402.17766)] [[Code](https://github.com/qizekun/ShapeLLM)] [[Website](https://qizekun.github.io/shapellm/)]
+
+* **3D-VLA**: "3D Vision-Language-Action Generative World Model", *ICML 2024*. [[Paper](https://arxiv.org/pdf/2403.09631)] [[Website](https://vis-www.cs.umass.edu/3dvla/)] [[Code](https://github.com/UMass-Foundation-Model/3D-VLA)] 
 
 * **RoboPoint**: "A Vision-Language Model for Spatial Affordance Prediction for Robotics", *arXiv, June 2024*. [[Paper](https://arxiv.org/pdf/2210.07241)] [[Website](https://robo-point.github.io/)]
 
