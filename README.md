@@ -108,6 +108,8 @@ Other relevant survey papers:
 
 * **RoboPoint**: "A Vision-Language Model for Spatial Affordance Prediction for Robotics", *arXiv, June 2024*. [[Paper](https://arxiv.org/pdf/2210.07241)] [[Website](https://robo-point.github.io/)]
 
+* **Open6DOR**: "Benchmarking Open-instruction 6-DoF Object Rearrangement and A VLM-based Approach", *IROS 2024*. [[Paper](https://openreview.net/pdf?id=axAmAy3Ghl)] [[Website](https://pku-epic.github.io/Open6DOR/)] [[Code](https://github.com/Selina2023/Open6DOR)]
+
 * **SpatialVLM**: "Endowing Vision-Language Models with Spatial Reasoning Capabilities", *CVPR 2024*. [[Paper](https://arxiv.org/abs/2401.12168)] [[Website](https://spatial-vlm.github.io/)] [[Code](https://spatial-vlm.github.io/#community-implementation)]
 
 * **SpatialRGPT**: "Grounded Spatial Reasoning in Vision Language Model", *arXiv, June 2024*. [[Paper](https://arxiv.org/abs/2406.01584)] [[Website](https://www.anjiecheng.me/SpatialRGPT)]
