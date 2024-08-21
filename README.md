@@ -118,8 +118,8 @@ Other relevant survey papers:
 
 * **ManipLLM**: "Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation ", *CVPR 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_ManipLLM_Embodied_Multimodal_Large_Language_Model_for_Object-Centric_Robotic_Manipulation_CVPR_2024_paper.pdf)] [[Website](https://sites.google.com/view/manipllm)] [[Code](https://github.com/clorislili/ManipLLM)]
 
-* **Manipulate-Anything**: "Manipulate-Anything: Automating Real-World Robots using Vision-Language Models", *arXiv, June 2024*. [[Paper]([https://arxiv.org/pdf/2406.18915])] [[Website]([https://robot-ma.github.io/])] 
-
+* **Manipulate-Anything**: "Manipulate-Anything: Automating Real-World Robots using Vision-Language Models", *arXiv, June 2024*. [[Paper](https://arxiv.org/pdf/2406.18915)] [[Website](https://robot-ma.github.io/)]
+* 
 * **MOKA**: "Open-Vocabulary Robotic Manipulation through Mark-Based Visual Prompting", *RSS 2024*. [[Paper](https://arxiv.org/pdf/2403.03174)] [[Website](https://moka-manipulation.github.io/)] [[Code](https://github.com/moka-manipulation/moka)] 
 
 * **Agent3D-Zero**: "An Agent for Zero-shot 3D Understanding", *arXIv, Mar 2024*. [[Paper](https://arxiv.org/pdf/2403.11835)] [[Website](https://zhangsha1024.github.io/Agent3D-Zero/)] [[Code](https://github.com/zhangsha1024/Agent3d-zero-code)] 
