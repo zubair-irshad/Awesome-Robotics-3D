@@ -234,6 +234,10 @@ Other relevant survey papers:
 * **HabiCrowd**: "HabiCrowd: A High Performance Simulator for Crowd-Aware Visual Navigation", *IROS 2024*. [[Paper](https://arxiv.org/pdf/2306.11377)] [[Website](https://habicrowd.github.io/)] [[Code](https://github.com/Fsoft-AIC/HabiCrowd)]
 
 ----
+
+[![Star History Chart](https://api.star-history.com/svg?repos=zubair-irshad/Awesome-Robotics-3D&type=Date)](https://star-history.com/#zubair-irshad/Awesome-Robotics-3D&Date)
+
+----
 ## Citation
 If you find this repository useful, please consider citing this list:
 ```
