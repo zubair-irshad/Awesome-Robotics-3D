@@ -106,9 +106,11 @@ Other relevant survey papers:
 
 * **3D-VLA**: "3D Vision-Language-Action Generative World Model", *ICML 2024*. [[Paper](https://arxiv.org/pdf/2403.09631)] [[Website](https://vis-www.cs.umass.edu/3dvla/)] [[Code](https://github.com/UMass-Foundation-Model/3D-VLA)] 
 
-* **RoboPoint**: "A Vision-Language Model for Spatial Affordance Prediction for Robotics", *arXiv, June 2024*. [[Paper](https://arxiv.org/pdf/2210.07241)] [[Website](https://robo-point.github.io/)]
+* **RoboPoint**: "A Vision-Language Model for Spatial Affordance Prediction for Robotics", *CORL 2024*. [[Paper](https://arxiv.org/pdf/2210.07241)] [[Website](https://robo-point.github.io/)]
 
 * **Open6DOR**: "Benchmarking Open-instruction 6-DoF Object Rearrangement and A VLM-based Approach", *IROS 2024*. [[Paper](https://openreview.net/pdf?id=axAmAy3Ghl)] [[Website](https://pku-epic.github.io/Open6DOR/)] [[Code](https://github.com/Selina2023/Open6DOR)]
+
+* **ReasoningGrasp**: "Reasoning Grasping via Multimodal Large Language Model", *CORL 2024*. [[Paper](https://arxiv.org/pdf/2402.06798)]
 
 * **SpatialVLM**: "Endowing Vision-Language Models with Spatial Reasoning Capabilities", *CVPR 2024*. [[Paper](https://arxiv.org/abs/2401.12168)] [[Website](https://spatial-vlm.github.io/)] [[Code](https://spatial-vlm.github.io/#community-implementation)]
 
@@ -159,6 +161,12 @@ Other relevant survey papers:
 
 ---
 ## Representation
+
+* **RoVi-Aug**: "Robot and Viewpoint Augmentation for Cross-Embodiment Robot Learning", *CORL 2024*. [[Paper](https://arxiv.org/pdf/2409.03403)] [[Webpage](https://rovi-aug.github.io/)]
+
+* **Vista**: "View-Invariant Policy Learning via Zero-Shot Novel View Synthesis", *CORL 2024*. [[Paper](https://arxiv.org/pdf/2409.03685)] [[Webpage](https://s-tian.github.io/projects/vista/)] [[Code](https://github.com/s-tian/VISTA)]
+
+* **GraspSplats**: "Efficient Manipulation with 3D Feature Splatting", *CORL 2024*. [[Paper](https://arxiv.org/pdf/2409.02084)] [[Webpage](https://graspsplats.github.io/)] [[Code](https://github.com/jimazeyu/GraspSplats)]
 
 * **RAM**: "RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation", *arXiv July 2024*. [[Paper](https://arxiv.org/pdf/2407.04689)] [[Webpage](https://yxkryptonite.github.io/RAM/)] [[Code](https://github.com/yxKryptonite/RAM_code)]
 
