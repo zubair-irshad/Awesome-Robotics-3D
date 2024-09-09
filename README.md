@@ -168,7 +168,9 @@ Other relevant survey papers:
 
 * **GraspSplats**: "Efficient Manipulation with 3D Feature Splatting", *CORL 2024*. [[Paper](https://arxiv.org/pdf/2409.02084)] [[Webpage](https://graspsplats.github.io/)] [[Code](https://github.com/jimazeyu/GraspSplats)]
 
-* **RAM**: "RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation", *arXiv July 2024*. [[Paper](https://arxiv.org/pdf/2407.04689)] [[Webpage](https://yxkryptonite.github.io/RAM/)] [[Code](https://github.com/yxKryptonite/RAM_code)]
+* **RAM**: "Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation", *CORL 2024*. [[Paper](https://arxiv.org/pdf/2407.04689)] [[Webpage](https://yxkryptonite.github.io/RAM/)] [[Code](https://github.com/yxKryptonite/RAM_code)]
+
+* **Splat-MOVER**: "Multi-Stage, Open-Vocabulary Robotic Manipulation via Editable Gaussian Splatting", *arXiv May 2024*. [[Paper](https://arxiv.org/abs/2405.04378)] [[Webpage](https://splatmover.github.io/)]
 
 * **GNFactor**: "Multi-Task Real Robot Learning with Generalizable Neural Feature Fields", *CORL 2023*. [[Paper](https://arxiv.org/pdf/2308.16891)] [[Webpage](https://yanjieze.com/GNFactor/)] [[Code](https://github.com/YanjieZe/GNFactor)]
 
