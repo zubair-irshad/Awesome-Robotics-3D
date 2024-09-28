@@ -170,6 +170,8 @@ Other relevant survey papers:
 
 * **RAM**: "Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation", *CORL 2024*. [[Paper](https://arxiv.org/pdf/2407.04689)] [[Webpage](https://yxkryptonite.github.io/RAM/)] [[Code](https://github.com/yxKryptonite/RAM_code)]
 
+* **Language-Embedded Gaussian Splats (LEGS):**: "Incrementally Building Room-Scale Representations with a Mobile Robot", *IROS 2024*. [[Paper](https://arxiv.org/pdf/2409.18108)] [[Webpage](https://berkeleyautomation.github.io/LEGS/)]
+
 * **Splat-MOVER**: "Multi-Stage, Open-Vocabulary Robotic Manipulation via Editable Gaussian Splatting", *arXiv May 2024*. [[Paper](https://arxiv.org/abs/2405.04378)] [[Webpage](https://splatmover.github.io/)]
 
 * **GNFactor**: "Multi-Task Real Robot Learning with Generalizable Neural Feature Fields", *CORL 2023*. [[Paper](https://arxiv.org/pdf/2308.16891)] [[Webpage](https://yanjieze.com/GNFactor/)] [[Code](https://github.com/YanjieZe/GNFactor)]
