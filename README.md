@@ -102,13 +102,15 @@ Other relevant survey papers:
 
 ## VLM and LLM
 
+* **AHA**: "A Vision-Language-Model for Detecting and Reasoning over Failures in Robotic Manipulation", *ArXiv 2024*. [[Paper](https://arxiv.org/pdf/2410.00371)] [[Website](https://aha-vlm.github.io/)] 
+
 * **ShapeLLM**: "ShapeLLM: Universal 3D Object Understanding for Embodied Interaction", *ECCV 2024*. [[Paper/PDF](https://arxiv.org/pdf/2402.17766)] [[Code](https://github.com/qizekun/ShapeLLM)] [[Website](https://qizekun.github.io/shapellm/)]
 
 * **3D-VLA**: "3D Vision-Language-Action Generative World Model", *ICML 2024*. [[Paper](https://arxiv.org/pdf/2403.09631)] [[Website](https://vis-www.cs.umass.edu/3dvla/)] [[Code](https://github.com/UMass-Foundation-Model/3D-VLA)] 
 
-* **RoboPoint**: "A Vision-Language Model for Spatial Affordance Prediction for Robotics", *CORL 2024*. [[Paper](https://arxiv.org/pdf/2210.07241)] [[Website](https://robo-point.github.io/)]
+* **RoboPoint**: "A Vision-Language Model for Spatial Affordance Prediction for Robotics", *CORL 2024*. [[Paper](https://arxiv.org/pdf/2210.07241)] [[Website](https://robo-point.github.io/)] [[Demo](https://robo-point.github.io/)]
 
-* **Open6DOR**: "Benchmarking Open-instruction 6-DoF Object Rearrangement and A VLM-based Approach", *IROS 2024*. [[Paper](https://openreview.net/pdf?id=axAmAy3Ghl)] [[Website](https://pku-epic.github.io/Open6DOR/)] [[Code](https://github.com/Selina2023/Open6DOR)]
+* **Open6DOR**: "Benchmarking Open-instruction 6-DoF Object Rearrangement and A VLM-based Approach", *IROS 2024*. [[Paper](https://openreview.net/pdf?id=axAmAy3Ghl)] [[Website](https://pku-epic.github.io/Open6DOR/)] [[Code](https://007e03d34429a2517b.gradio.live/)]
 
 * **ReasoningGrasp**: "Reasoning Grasping via Multimodal Large Language Model", *CORL 2024*. [[Paper](https://arxiv.org/pdf/2402.06798)]
 
