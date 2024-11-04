@@ -14,9 +14,13 @@ If you find this repository useful, please consider [citing](#citation) 📝 and
 
 Feel free to share this list with others! List curated and maintained by [Zubair Irshad](https://zubairirshad.com). If you have any questions, please get in touch!
 
-Other relevant survey papers:
+:fire: Other relevant survey papers:
+
+* "Neural Fields in Robotics", *arXiv, Oct 2024*. [[Paper](https://arxiv.org/pdf/2410.20220)]
 
 * "When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models", *arXiv, May 2024*. [[Paper](https://arxiv.org/pdf/2405.10255)]
+
+* "3D Gaussian Splatting in Robotics: A Survey", *arXiv, Oct 2024*. [[Paper](https://arxiv.org/pdf/2410.12262)]
 
 * "A Comprehensive Study of 3-D Vision-Based Robot Manipulation", *TCYB 2021*. [[Paper](https://ieeexplore.ieee.org/document/9541299)]
 
