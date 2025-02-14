@@ -39,6 +39,8 @@ Feel free to share this list with others! List curated and maintained by [Zubair
 ## Policy Learning
 
 
+* **SAM2Act**: "Integrating Visual Foundation Model with a Memory Architecture for Robotic Manipulation", *arXiv Feb 2024*. [[Paper](https://arxiv.org/abs/2501.18564)] [[Webpage](https://sam2act.github.io/)] [[Code](https://github.com/sam2act/SAM2Act)]
+
 * **3D Diffuser Actor**: "Policy diffusion with 3d scene representations", *arXiv Feb 2024*. [[Paper](https://arxiv.org/pdf/2402.10885)] [[Webpage](https://3d-diffuser-actor.github.io/)] [[Code](https://github.com/nickgkan/3d_diffuser_actor)]
 
 * **3D Diffusion Policy**: "Generalizable Visuomotor Policy Learning via Simple 3D Representations", *RSS 2024*. [[Paper](https://arxiv.org/pdf/2403.03954)] [[Webpage](https://arxiv.org/pdf/2403.039545)] [[Code](https://github.com/YanjieZe/3D-Diffusion-Policy)]
