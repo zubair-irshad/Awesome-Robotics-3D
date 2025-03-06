@@ -105,6 +105,10 @@ Feel free to share this list with others! List curated and maintained by [Zubair
 ---
 
 ## VLM and LLM
+* **Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection**, CVPR, 2025.  
+Enshen Zhou, Qi Su, Cheng Chi, Zhizheng Zhang, Zhongyuan Wang, Tiejun Huang, Lu Sheng, He Wang.  
+[[Paper](https://arxiv.org/abs/2412.04455)] [[Project](https://zhoues.github.io/Code-as-Monitor/)]
+
 
 * **AHA**: "A Vision-Language-Model for Detecting and Reasoning over Failures in Robotic Manipulation", *ArXiv 2024*. [[Paper](https://arxiv.org/pdf/2410.00371)] [[Website](https://aha-vlm.github.io/)] 
 
