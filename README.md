@@ -106,6 +106,8 @@ Feel free to share this list with others! List curated and maintained by [Zubair
 
 ## VLM and LLM
 
+* **RoboRefer**: "Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics", *ArXiv 2025*. [[Paper](https://arxiv.org/pdf/2506.04308)] [[Website](https://zhoues.github.io/RoboRefer/)] 
+
 * **AHA**: "A Vision-Language-Model for Detecting and Reasoning over Failures in Robotic Manipulation", *ArXiv 2024*. [[Paper](https://arxiv.org/pdf/2410.00371)] [[Website](https://aha-vlm.github.io/)] 
 
 * **ShapeLLM**: "ShapeLLM: Universal 3D Object Understanding for Embodied Interaction", *ECCV 2024*. [[Paper/PDF](https://arxiv.org/pdf/2402.17766)] [[Code](https://github.com/qizekun/ShapeLLM)] [[Website](https://qizekun.github.io/shapellm/)]
@@ -214,6 +216,8 @@ Feel free to share this list with others! List curated and maintained by [Zubair
 
 ---
 ## Simulations, Datasets and Benchmarks
+
+* **RoboRefer**: "Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics", *ArXiv 2025*. [[Paper](https://arxiv.org/pdf/2506.04308)] [[Website](https://zhoues.github.io/RoboRefer/)] 
 
 * **The Colosseum**: "A Benchmark for Evaluating Generalization for Robotic Manipulation", *RSS 2024*. [[Paper](https://arxiv.org/pdf/2402.08191)] [[Website](https://robot-colosseum.github.io/)] [[Code](https://github.com/robot-colosseum/robot-colosseum)] 
 
