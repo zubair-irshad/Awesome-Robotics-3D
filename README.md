@@ -106,6 +106,10 @@ Feel free to share this list with others! List curated and maintained by [Zubair
 ---
 
 ## VLM and LLM
+* **Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection**, CVPR, 2025.  
+Enshen Zhou, Qi Su, Cheng Chi, Zhizheng Zhang, Zhongyuan Wang, Tiejun Huang, Lu Sheng, He Wang.  
+[[Paper](https://arxiv.org/abs/2412.04455)] [[Project](https://zhoues.github.io/Code-as-Monitor/)]
+
 
 * **RoboTracer**: "Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics", *ArXiv 2025*. [[Paper](https://arxiv.org/pdf/2512.13660)] [[Website](https://zhoues.github.io/RoboTracer/)] 
 
