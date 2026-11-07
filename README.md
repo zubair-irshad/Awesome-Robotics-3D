@@ -107,6 +107,8 @@ Feel free to share this list with others! List curated and maintained by [Zubair
 
 ## VLM and LLM
 
+* **MJev-Spatial**: "MJev-Spatial: System One Spatial Intelligence via Native Attention Matching", *arXiv, Oct 2026*. [[Paper](https://arxiv.org/abs/2610.22276)] [[Code](https://github.com/Fr0zenCrane/MJev-Spatial)]
+
 * **RoboTracer**: "Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics", *ArXiv 2025*. [[Paper](https://arxiv.org/pdf/2512.13660)] [[Website](https://zhoues.github.io/RoboTracer/)] 
 
 * **RoboRefer**: "Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics", *ArXiv 2025*. [[Paper](https://arxiv.org/pdf/2506.04308)] [[Website](https://zhoues.github.io/RoboRefer/)] 
